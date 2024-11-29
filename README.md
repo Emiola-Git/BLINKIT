@@ -1,13 +1,14 @@
-# BLINKIT
+                                   # BLINKIT
+## OBJECTIVE: 
+The aim of this Dashboard is to create a comprehensive system for monitoring sales performance at different outlets, 
+managing customer orders, and tracking grocery inventory. This Dashboard will streamline the process for both grocery store owners 
+and customers by helping them make efficient, data-driven decisions.
 
-#### PICTURE
+#### 
 ![WhatsApp Image 2024-09-19 at 06 39 54](https://github.com/user-attachments/assets/bfb2f00e-b930-42ec-8795-e9199c250626)
 
-PROJECT OVERVIEW: BlinkIT Grocery Dashboard
-OBJECTIVE:
-The aim of this Dashboard is to create a comprehensive system for monitoring sales performance at different outlets, managing customer orders, and tracking grocery inventory. This Dashboard will streamline the process for both grocery store owners and customers by helping them make efficient, data-driven decisions.
 
-SCOPE:
+#### SCOPE:
 This Dashboard will encompass the following core features:
 
 1. INVENTORY MANAGEMENT:
@@ -22,17 +23,20 @@ Maintain item profiles, including order history and customer preferences. Offer 
 4. REPORTS:
 Generate reports on sales performance, outlet performance, and customer behavior. Provide insights on best-selling items, seasonal trends, and inventory turnover.
 
-ADVANTAGES:
-Gain insights into the performance of outlets over time.
-Identify the most sold items, distinguishing between "Low Fat" and "Regular" products.
-Identify the best-performing outlet locations.
-Provide better data insights for improved business decision-making.
-DATA SOURCE:
+##### ADVANTAGES:
+1. Gain insights into the performance of outlets over time.
+2. Identify the most sold items, distinguishing between "Low Fat" and "Regular" products.
+3. Identify the best-performing outlet locations.
+4. Provide better data insights for improved business decision-making.
+   
+#### DATA SOURCE:
 Excel
 
-PROJECT TOOLS:
+##### PROJECT TOOLS:
 Excel
 Power BI
-Conclusion:
-The Grocery Dashboard provides a reliable and efficient reporting system for grocery outlets to manage operational performance and gain valuable business insights, contributing to the growth and success of the store.
+
+##### Conclusion:
+The Grocery Dashboard provides a reliable and efficient reporting system for grocery outlets to manage operational
+performance and gain valuable business insights, contributing to the growth and success of the store.
 
