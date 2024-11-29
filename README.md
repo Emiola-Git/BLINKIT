@@ -1,8 +1,8 @@
-                                   # BLINKIT
+# BLINKIT
 ## OBJECTIVE: 
-The aim of this Dashboard is to create a comprehensive system for monitoring sales performance at different outlets, 
-managing customer orders, and tracking grocery inventory. This Dashboard will streamline the process for both grocery store owners 
-and customers by helping them make efficient, data-driven decisions.
+The aim of this Dashboard is to create a comprehensive system for monitoring sales performances at different outlets, 
+managing customer orders, and tracking grocery inventory. This Dashboard will streamline the process for grocery store owners 
+by helping him make efficient, data-driven decisions.
 
 #### 
 ![WhatsApp Image 2024-09-19 at 06 39 54](https://github.com/user-attachments/assets/bfb2f00e-b930-42ec-8795-e9199c250626)
@@ -29,14 +29,14 @@ Generate reports on sales performance, outlet performance, and customer behavior
 3. Identify the best-performing outlet locations.
 4. Provide better data insights for improved business decision-making.
    
-#### DATA SOURCE:
+##### DATA SOURCE:
 Excel
 
 ##### PROJECT TOOLS:
 Excel
 Power BI
 
-##### Conclusion:
+##### CONCLUSION:
 The Grocery Dashboard provides a reliable and efficient reporting system for grocery outlets to manage operational
 performance and gain valuable business insights, contributing to the growth and success of the store.
 
