@@ -1,5 +1,5 @@
 # BLINKIT
-## OBJECTIVE: 
+### OBJECTIVE: 
 The aim of this Dashboard is to create a comprehensive system for monitoring sales performances at different outlets, 
 managing customer orders, and tracking grocery inventory. This Dashboard will streamline the process for grocery store owners 
 by helping him make efficient, data-driven decisions.
