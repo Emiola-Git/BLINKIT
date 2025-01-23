@@ -7,7 +7,7 @@ by helping him make efficient, data-driven decisions.
 #### 
 ![WhatsApp Image 2024-09-19 at 06 39 54](https://github.com/user-attachments/assets/bfb2f00e-b930-42ec-8795-e9199c250626)
 
-###LINK
+### DATA SOURCE
 [BlinkIT Grocery Data (1).xlsx](https://github.com/user-attachments/files/17987114/BlinkIT.Grocery.Data.1.xlsx)
 
 
